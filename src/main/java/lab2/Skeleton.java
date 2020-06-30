@@ -5,6 +5,8 @@ import java.awt.*;
 import java.awt.geom.Ellipse2D;
 import java.awt.geom.GeneralPath;
 
+
+
 @SuppressWarnings("serial")
 public class Skeleton extends JPanel {
 
